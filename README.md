@@ -1,9 +1,9 @@
 # Please do the following steps to run the program yourself after running "npm install"
 
     1. Create a .env file
-    2. Add a variable called API_KEY = {insert your api key}
+    2. Add a variable called API_KEY = your api key goes here
     3. Start the server with "npm run dev"
-    4. Run the program at http://localhost:4000/batch-data to see the data returned from Vidrovr
+    4. Run the program at http://localhost:4000/batch-data to see the data returned from Vidrovr API
     5. To view the map, simply open the index.html file in a browser
 
 
